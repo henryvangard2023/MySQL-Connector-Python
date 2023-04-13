@@ -1,0 +1,48 @@
+[{
+"customer_id":1006,
+"first_name":"Joe",
+"last_name":"Biden",
+"house_no":111,
+"street":"102nd Ave",
+"city":"St Paul",
+"state":"MN",
+"zip_code":55101,
+"phone_no":"651-111-4422",
+"email":"jb@yahoo.com"
+},
+{
+"customer_id":1007,
+"first_name":"Donald",
+"last_name":"Thump",
+"house_no":222,
+"street":"22nd Ave",
+"city":"St Paul",
+"state":"MN",
+"zip_code":55107,
+"phone_no":"651-222-4422",
+"email":"dt@yahoo.com"
+},
+{
+"customer_id":1008,
+"first_name":"Billy",
+"last_name":"Bush",
+"house_no":444,
+"street":"222nd Ave",
+"city":"St Paul",
+"state":"MN",
+"zip_code":55119,
+"phone_no":"651-333-4422",
+"email":"bb@yahoo.com"
+},
+{
+"customer_id":1009,
+"first_name":"Rachel",
+"last_name":"Larson",
+"house_no":888,
+"street":"1212nd Ave",
+"city":"St Paul",
+"state":"MN",
+"zip_code":55119,
+"phone_no":"651-444-4422",
+"email":"rl@yahoo.com"
+}]
